@@ -1,3 +1,3 @@
 # display Child Branch
 
-Display ("Child Branch")
+Print ("Child Branch")
